@@ -4,20 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace ConsoleApplication2
 {
     class Program
     {
         static void Main(string[] args)
-<<<<<<< HEAD
-        
         {
-            Console.WriteLine("Hello world");
+            int a, b;
+            a = int.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
+            Console.WriteLine(a + b);
             Console.ReadKey();
-=======
-        {
-            Console.WriteLine("hello world");
->>>>>>> 10d58683f867d121bafe2faa9a6b52cce9ffe154
         }
     }
 }
