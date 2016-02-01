@@ -4,3 +4,6 @@ C:\PT_labs\1repository\ConsoleApplication3\ConsoleApplication3\bin\Debug\Console
 C:\PT_labs\1repository\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
 C:\PT_labs\1repository\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 C:\PT_labs\1repository\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Самат\Desktop\prog\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Самат\Desktop\prog\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Самат\Desktop\prog\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
